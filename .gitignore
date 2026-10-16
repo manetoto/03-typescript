@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+
+# Archivos generados por TypeScript
+/dist/
+
+# Logs de la aplicación y npm
+/logs/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
